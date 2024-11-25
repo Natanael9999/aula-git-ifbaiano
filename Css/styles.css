@@ -14,6 +14,7 @@ body {
     height: 100vh;
     background: url(https://geekdama.com.br/wp-content/uploads/2023/04/capitao-america-steve-rogers-postcover.jpg);
     color: white;
+    background-repeat: cover;
 }
 
 /* Contêiner do formulário */

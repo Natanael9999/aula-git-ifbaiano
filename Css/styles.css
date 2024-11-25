@@ -108,4 +108,5 @@ main{
 
 .home{
     background-image: url(https://cinepop.com.br/wp-content/uploads/2023/09/nick-fury-captain-america-black-widow-winter-soldier-2014.webp);
+    background-repeat: cover;
 }
